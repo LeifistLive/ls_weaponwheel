@@ -11,7 +11,7 @@ FiveM | Simple recolor the gta weaponwheel
 
 > Drag the resource in to your [resources] folder
 
-> Add this in your server.cfg (under esx) start ls_weaponwheel
+> Add this in your server.cfg start ls_weaponwheel
 
 
 [DESCRIPTION]
